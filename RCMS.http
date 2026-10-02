@@ -1,0 +1,6 @@
+@RCMS_HostAddress = http://localhost:5204
+
+GET {{RCMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCMS", "RCMS.csproj", "{D0B6FC92-FA13-4013-AF11-2A53446B78C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0B6FC92-FA13-4013-AF11-2A53446B78C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B6FC92-FA13-4013-AF11-2A53446B78C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B6FC92-FA13-4013-AF11-2A53446B78C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B6FC92-FA13-4013-AF11-2A53446B78C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EAEDE86-F36D-4A71-813F-7189CED4B244}
+	EndGlobalSection
+EndGlobal
